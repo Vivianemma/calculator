@@ -1,0 +1,22 @@
+.calculator{
+    width: 30%;
+    margin: auto;
+    box-shadow: 0px 0px 10px;
+    background: #050505b2;
+    margin-top: 10%;
+}
+.calculator-screen{
+    width: 91.5%;
+    background: #ffffff;
+    color: rgb(255, 0, 0);
+    padding: 10px;
+    font-size: 20px;
+}
+.calculator-key, button{
+   width: 20%;
+   font-size: 20px;
+   color: rgb(255, 0, 0);
+   border-radius: 5px;
+   margin: 3%;
+   margin-left: 7%;
+}
